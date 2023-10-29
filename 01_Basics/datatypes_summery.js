@@ -24,3 +24,12 @@ const myFunction=function(){
 }
 
 console.log(typeof myObj);
+
+
+
+//***************************** */
+//memory-- two types= Stack(premitive), Heap(non premitive)
+let myYoutubename="hitesh.com"
+let anothername=myYoutubename
+
+console.log(anothername);
